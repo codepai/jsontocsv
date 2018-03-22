@@ -8,4 +8,4 @@ JSON to CSV converter, new and improved, for Open Office, Excel or other spreads
 
 You can reach the tool at https://jsontoexcel.com
 
-![alt text](https://raw.githubusercontent.com/codepai/jsontocsv/master/jsontocsv.png)
+[![alt text](https://raw.githubusercontent.com/codepai/jsontocsv/master/jsontocsv.png)](https://jsontoexcel.com/) 
